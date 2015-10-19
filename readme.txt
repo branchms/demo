@@ -8,3 +8,5 @@ I just can't believe how much fun these changes would be.  Especially this being
 
 This change is being done on the new Branch MyBranch
 
+Here is a line to cause a merge conflict
+
