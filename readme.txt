@@ -10,3 +10,6 @@ This change is being done on the new Branch MyBranch
 
 Here is what's being called change 7, Here goes nothing.
 
+Here is a line to cause a merge conflict
+
+
